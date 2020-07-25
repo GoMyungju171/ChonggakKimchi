@@ -135,3 +135,4 @@ print(mean_absolute_error(val_y, melb_preds))
 
 
 <val_X에 random forest 모델을 이용한 예측값과, fit을 통한 val_y의 값의 MAE를 구하는 과정인 것>
+!!
